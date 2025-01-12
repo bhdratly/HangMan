@@ -1,0 +1,10 @@
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\bin\Debug\AdamAsmacaaa.exe.config
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\bin\Debug\AdamAsmacaaa.exe
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\bin\Debug\AdamAsmacaaa.pdb
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.csprojAssemblyReference.cache
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.Form1.resources
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.Properties.Resources.resources
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.csproj.GenerateResource.cache
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.exe
+C:\Users\BAHADIR ATALAY\source\repos\AdamAsmacaaa\AdamAsmacaaa\obj\Debug\AdamAsmacaaa.pdb
